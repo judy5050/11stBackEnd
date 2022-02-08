@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="logic.BubbleSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-08T02:28:58" hostname="1101727M01.local" time="0.054">
+  <properties/>
+  <testcase name="데이터 리스트를 입력하면, 정렬된 리스트를 반환한다." classname="logic.BubbleSortTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
